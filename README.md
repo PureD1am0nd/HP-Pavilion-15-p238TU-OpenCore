@@ -5,7 +5,7 @@ Hackintosh for HP Pavilion
 ![macOS](https://img.shields.io/badge/macOS-Sonoma%2014.4~-success)
 ![OpenCore](https://img.shields.io/badge/OpenCore-1.0.6-black)
 
-![System Specs](./Images/screen)
+![System Specs](./RDT_20260424_2300302369561947552888135.jpg)
 
 |Specifications|Details|
 |------|---|
