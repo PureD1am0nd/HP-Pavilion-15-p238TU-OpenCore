@@ -2,7 +2,7 @@
 Hackintosh for HP Pavilion 
 
 ![CPU](https://img.shields.io/badge/CPU-Intel%20i3--5010U-blue)
-![macOS](https://img.shields.io/badge/macOS-Sonoma%2014.4~-success)
+![macOS](https://img.shields.io/badge/macOS-Sonoma%2014.4~14.15-success)
 ![OpenCore](https://img.shields.io/badge/OpenCore-1.0.6-black)
 
 ![System Specs](./RDT_20260424_2300302369561947552888135.jpg)
